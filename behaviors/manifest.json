@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "BdsBridge Behaviors",
+    "description": "Bridge for Bds Maneger Core",
+    "uuid": "3ab2765d-cdfd-4320-baf4-b9b9c65de6be",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for BdsBridge",
+      "type": "client_data",
+      "uuid": "7881cd5a-aed1-43c2-aa49-35dd6120bc06",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
