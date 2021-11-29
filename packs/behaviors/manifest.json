@@ -1,9 +1,10 @@
 {
-  "format_version": 1,
+  "format_version": 2,
   "header": {
     "name": "BdsBedrockBridge Behaviors",
     "description": "Bridge Infos to Bds Maneger Core",
     "uuid": "1f3cf130-b737-4b01-a892-79c420222f09",
+    "min_engine_version": [ 1, 14, 0 ],
     "version": [
       1,
       0,
@@ -15,21 +16,14 @@
       "description": "behaviours for BdsBedrockBridge",
       "type": "client_data",
       "uuid": "64f582a9-16e5-43e9-80a9-d34733abc110",
-      "version": [
-        1,
-        0,
-        0
-      ]
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
     }
   ],
   "dependencies": [
     {
       "uuid": "4fea42f6-5a77-4e49-baac-e2a491e28547",
-      "version": [
-        1,
-        0,
-        0
-      ]
+      "version": [1, 0, 0]
     }
   ]
 }
